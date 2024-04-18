@@ -1,0 +1,69 @@
+/* assignment-7 css */
+body{
+    background-color: rgb(14, 188, 188);
+}
+.heading,.sanjeev{
+    background-color: black;
+    color: yellow;
+    text-align: center;
+}
+.Border, .Margin, .Padding{
+    background-color: black;
+    color: yellow;
+    text-align: center;  
+    margin-left: 25%;
+    margin-right: 25%;
+    border-radius: 5px;
+}
+.Dotted{
+    border:5px dotted;
+}
+.Dashed{
+    border:5px dashed;
+}
+.Solid{
+    border: 5px solid;
+}
+.Double{
+    border: 5px double;
+}
+.Inset{
+    border: 15px inset red;
+}
+.Outset{
+    border: 15px outset red;  
+}
+.Rigde{
+    border: 10px ridge yellow;
+    border-radius: 50px;  
+}
+.Groove{
+    border: 10px groove green;
+    border-radius: 25px;
+}
+.Hidden{
+    border:hidden;
+}
+.No{
+    border:none;
+}
+.Mixxed{
+border: 10px;
+border-style: dotted dashed solid double;
+border-left-color: red;
+}
+.solid1{
+border:5px solid;
+margin: 50px;
+}
+.solid2{
+    border:5px solid;  
+}
+.solid3{
+    border:5px solid; 
+    margin: 50px;
+    padding: 50px;
+}
+.solid4{
+    border:5px solid;  
+}
